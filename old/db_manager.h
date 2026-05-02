@@ -2,7 +2,7 @@
 #define DB_MANAGER_H
 
 #include <string>
-#include <oracle/occi.h>
+#include <occi.h>
 
 // Forward declarations (existing classes, unchanged)
 class Blockchain;
